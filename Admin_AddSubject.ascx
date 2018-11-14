@@ -3,7 +3,7 @@
 										<form method="post" action="#">
 											<div class="row uniform">
 												<div class="12u$">
-                                                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                                                    <asp:TextBox ID="TextBox1" runat="server" readonly></asp:TextBox>
 												</div>
 												<!-- Break -->
                                                 <div class="6u 12u$(xsmall)">
